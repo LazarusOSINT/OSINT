@@ -1,5 +1,6 @@
 #Autor LazarusOSINT 
 #profsilvio@aol.com
+#cGVubllEcjBwcGVyLiEK
 import os
 
 diretorio = '/caminho/do/seu/diretorio'  # Substitua pelo caminho do seu diretório
